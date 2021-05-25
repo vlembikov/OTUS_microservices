@@ -4,7 +4,7 @@ stages:
   - build
   - test
   - review
-  - staging
+  - stage
   - production
 
 variables:
@@ -49,10 +49,10 @@ staging:
     url: http://beta.exemple.com
 
 production:
-  stage: prodaction
+  stage: production
   when: manual
   script:
     - echo 'Deploy'
   environment:
-    name: prodaction
+    name: production
     url: http://exemple.com

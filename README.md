@@ -112,7 +112,7 @@
  - [ ] Выставил label с темой домашнего задания
  </p></details>
 
-<details><summary>Выполнено ДЗ № 23 > monitoring-2</summary><p>
+<details><summary>Выполнено ДЗ № 23 > logging-1</summary><p>
 
  - [ ] Основное ДЗ
  - [ ] Задание со *

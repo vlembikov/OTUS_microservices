@@ -129,7 +129,7 @@
  - [ ] Выставил label с темой домашнего задания
  </p></details>
 
-<details><summary>Выполнено ДЗ № 24 > kubernetes-1</summary><p>
+<details><summary>Выполнено ДЗ № 25 > kubernetes-1</summary><p>
 
  - [ ] Основное ДЗ
  - [ ] Задание со *
